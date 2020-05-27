@@ -12,7 +12,7 @@ void main() {
                 ),
                 body: Center(
                   child: Image(
-                      image: NetworkImage('https://static.toiimg.com/thumb/msid-60132235,imgsize-169468,width-800,height-600,resizemode-75/60132235.jpg'),
+                      image: AssetImage('images/unnamed.png'),
                   ),
                 )
             )
